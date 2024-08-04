@@ -6,7 +6,7 @@ const Navbar = () => {
   return (
     <>
         <div className="relative flex flex-wrap px-0 py-25">
-            <div className="relative w-screen flex items-center px-11 py-10 bg-white shadow-lg">
+            <div className="relative w-screen flex items-center px-11 py-4 bg-white shadow-lg">
                   <CompanyBanner/>
                   <UserInfo/>
 
