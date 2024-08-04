@@ -9,7 +9,6 @@ const Navbar = () => {
             <div className="relative w-screen flex items-center px-11 py-4 bg-white shadow-lg">
                   <CompanyBanner/>
                   <UserInfo/>
-
             </div>
         </div>
     </>
